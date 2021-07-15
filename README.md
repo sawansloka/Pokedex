@@ -10,12 +10,6 @@ Clone the repository
 git clone https://github.com/sawansloka/Pokedex.git
 ```
 
-Change directory to /client
-
-```
-cd Client
-```
-
 Install dependencies
 
 ```
