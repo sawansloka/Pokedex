@@ -1,5 +1,4 @@
 # Pokedex
-# Pokedex
 
 **Pokedex** is a portal where you can see the characters of Pokemon and their Strength, Height, Weight and so on. **Pokedex** is built by feching a data from **Pokemon API**.
 
